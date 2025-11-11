@@ -1,2 +1,5 @@
-# wiktionary-interpreter
-Translates English into Arabic dialects rather than just MSA, which is Google Translate's current limitation.
+# Wiktionary Interpreter
+
+There are far too few online tools that translate to Arabic dialects rather than MSA, and those that do use AI. Until now.
+
+My tool scrapes Wiktionary for accurate, non-AI, multi-dialectal translations. The executable is standalone.
